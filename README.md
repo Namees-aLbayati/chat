@@ -22,5 +22,4 @@ AND HAVE THE SECOND CONNECTION WHICH IS SOCKET.IO (which has connection with htt
 * node server.js
 * open localhost:3001
 * start your conversation between two user using same localhost port
-# workthrough video on google drive
-https://drive.google.com/file/d/1WNYzgVXt1i6dVkJhmMAwwbis3XPc5oX2/view?usp=sharing
+
